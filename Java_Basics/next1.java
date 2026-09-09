@@ -1,0 +1,16 @@
+01_Java_Basics/ │ 
+  ├── 01_Hello_World/ 
+  ├── 02_Printing_Output/ 
+  ├── 03_Variables/ 
+  ├── 04_Data_Types/ 
+  ├── 05_User_Input/ 
+  ├── 06_Arithmetic_Operators/ 
+  ├── 07_Assignment_Operators/ 
+  ├── 08_Relational_Operators/ 
+  ├── 09_Logical_Operators/ 
+  ├── 10_Type_Casting/ 
+  ├── 11_Constants/ 
+  ├── 12_Comments/
+  ├── 13_Escape_Sequences/ 
+  ├── 14_String_Basics/ 
+  └── 15_Basic_Calculator/
