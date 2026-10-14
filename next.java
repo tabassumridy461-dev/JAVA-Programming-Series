@@ -11,13 +11,13 @@ Java-Programming-Series/
 ├── 09_Collections_Framework/
 └── 10_Projects_Using_Java/
 ** 
-Java Basics
-Conditional Statements
-Loops
-Arrays
-Methods
+Java Basics done
+Conditional Statements done
+Loops done
+Arrays done
+Methods done
 Strings
 ArrayList
-OOP
+OOP done
 Exception Handling
-Java Projects
+Java Projects done 
